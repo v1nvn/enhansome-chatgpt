@@ -65,10 +65,10 @@
 
 ## Apps
 
-* [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) ⭐ 54,360 | 🐛 925 | 🌐 Rust | 📅 2024-08-29 - Cross-platform web UI wrapper. (Electron)
-* [Chatbox](https://github.com/Bin-Huang/chatbox) ⭐ 39,241 | 🐛 1,089 | 🌐 TypeScript | 📅 2026-04-02 - Cross-platform app.
+* [ChatGPT Desktop Application](https://github.com/lencx/ChatGPT) ⭐ 54,359 | 🐛 925 | 🌐 Rust | 📅 2024-08-29 - Cross-platform web UI wrapper. (Electron)
+* [Chatbox](https://github.com/Bin-Huang/chatbox) ⭐ 39,259 | 🐛 1,089 | 🌐 TypeScript | 📅 2026-04-02 - Cross-platform app.
 * [ChatGPT Android](https://github.com/skydoves/chatgpt-android) ⭐ 3,872 | 🐛 27 | 🌐 Kotlin | 📅 2026-01-03 - Native Android app.
-* [Actions](https://github.com/sindresorhus/Actions) ⭐ 2,987 | 🐛 7 | 📅 2025-02-17 - Use ChatGPT from the Shortcuts app on iOS and macOS.
+* [Actions](https://github.com/sindresorhus/Actions) ⭐ 2,989 | 🐛 7 | 📅 2025-02-17 - Use ChatGPT from the Shortcuts app on iOS and macOS.
 * [Chat AI Desktop App](https://github.com/sonnylazuardi/chat-ai-desktop) ⭐ 2,008 | 🐛 39 | 🌐 Rust | 📅 2023-12-23 - Cross-platform web UI wrapper.
 * [Delphi ChatGPT](https://github.com/HemulGM/ChatGPT) ⭐ 460 | 🐛 9 | 🌐 Pascal | 📅 2025-10-20 - Native cross-platform app.
 * [ChatARKit](https://github.com/trzy/ChatARKit) ⭐ 440 | 🐛 1 | 🌐 C | 📅 2023-03-31 - iOS app for creating AR experiences with natural language.
@@ -99,28 +99,28 @@
 
 ### Hosted and self-hosted
 
-* [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 87,615 | 🐛 798 | 🌐 TypeScript | 📅 2025-12-02 - Alternative ChatGPT web UI.
-* [Open Interpreter](https://github.com/KillianLucas/open-interpreter) ⭐ 62,983 | 🐛 310 | 🌐 Python | 📅 2026-02-09 - Code interpreter with ChatGPT.
-* [FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,455 | 🐛 1,004 | 🌐 Python | 📅 2025-06-02 - An open platform for training, serving, and evaluating large language model based chatbots.
+* [ChatGPT Next Web](https://github.com/Yidadaa/ChatGPT-Next-Web) ⭐ 87,619 | 🐛 798 | 🌐 TypeScript | 📅 2025-12-02 - Alternative ChatGPT web UI.
+* [Open Interpreter](https://github.com/KillianLucas/open-interpreter) ⭐ 62,995 | 🐛 310 | 🌐 Python | 📅 2026-02-09 - Code interpreter with ChatGPT.
+* [FastChat](https://github.com/lm-sys/FastChat) ⭐ 39,450 | 🐛 1,005 | 🌐 Python | 📅 2025-06-02 - An open platform for training, serving, and evaluating large language model based chatbots.
 * [AgentGPT](https://github.com/reworkd/AgentGPT) ⚠️ Archived - Autonomous AI agents in your browser.
-* [TaskMatrix](https://github.com/microsoft/TaskMatrix) ⭐ 34,189 | 🐛 255 | 🌐 Python | 📅 2024-01-06 - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
-* [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,137 | 🐛 244 | 🌐 TypeScript | 📅 2024-08-03 - Alternative ChatGPT web UI.
+* [TaskMatrix](https://github.com/microsoft/TaskMatrix) ⭐ 34,188 | 🐛 255 | 🌐 Python | 📅 2024-01-06 - Combines ChatGPT with Visual Models for enhanced image-chat interactions.
+* [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) ⭐ 33,145 | 🐛 244 | 🌐 TypeScript | 📅 2024-08-03 - Alternative ChatGPT web UI.
 * [ai-chatbot](https://github.com/vercel-labs/ai-chatbot) ⭐ 20,037 | 🐛 11 | 🌐 TypeScript | 📅 2026-04-01 - Personalized ChatGPT AI chatbot.
-* [Opik](https://github.com/comet-ml/opik) ⭐ 18,615 | 🐛 163 | 🌐 Python | 📅 2026-04-03 - Open-source end-to-end LLM development platform.
-* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 17,801 | 🐛 65 | 🌐 Python | 📅 2026-04-01 - Documentation assistant.
-* [roomGPT](https://github.com/Nutlope/roomGPT) ⭐ 10,651 | 🐛 35 | 🌐 TypeScript | 📅 2024-04-20 - Generate your dream room.
+* [Opik](https://github.com/comet-ml/opik) ⭐ 18,627 | 🐛 167 | 🌐 Python | 📅 2026-04-04 - Open-source end-to-end LLM development platform.
+* [DocsGPT](https://github.com/arc53/DocsGPT) ⭐ 17,804 | 🐛 62 | 🌐 Python | 📅 2026-04-03 - Documentation assistant.
+* [roomGPT](https://github.com/Nutlope/roomGPT) ⭐ 10,652 | 🐛 35 | 🌐 TypeScript | 📅 2024-04-20 - Generate your dream room.
 * [chatgpt-demo](https://github.com/anse-app/chatgpt-demo) ⭐ 8,009 | 🐛 48 | 🌐 TypeScript | 📅 2023-12-27 - Minimal web UI for ChatGPT.
-* [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) ⭐ 7,175 | 🐛 46 | 🌐 Python | 📅 2026-03-06 - Interactive conversations with the contents of PDF files.
+* [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) ⭐ 7,174 | 🐛 46 | 🌐 Python | 📅 2026-03-06 - Interactive conversations with the contents of PDF files.
 * [OpenChat](https://github.com/openchatai/OpenChat) ⚠️ Archived - Personalized ChatGPT chatbot.
-* [OpenAgents](https://github.com/xlang-ai/OpenAgents) ⭐ 4,744 | 🐛 14 | 🌐 Python | 📅 2024-11-18 - Open-source replicate of ChatGPT Plus products including code interpreter, plugins and web browsing.
+* [OpenAgents](https://github.com/xlang-ai/OpenAgents) ⭐ 4,745 | 🐛 14 | 🌐 Python | 📅 2024-11-18 - Open-source replicate of ChatGPT Plus products including code interpreter, plugins and web browsing.
 * [Adrenaline](https://github.com/shobrook/adrenaline/) ⭐ 3,760 | 🐛 0 | 📅 2024-03-08 - Talk to your codebase.
-* [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) ⭐ 3,562 | 🐛 10 | 🌐 Python | 📅 2024-03-20 - Code interpreter integrated with ChatGPT.
-* [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) ⭐ 3,400 | 🐛 50 | 🌐 JavaScript | 📅 2025-07-08 - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database).
+* [gpt-code-ui](https://github.com/ricklamers/gpt-code-ui) ⭐ 3,560 | 🐛 10 | 🌐 Python | 📅 2024-03-20 - Code interpreter integrated with ChatGPT.
+* [OP Vault ChatGPT](https://github.com/pashpashpash/vault-ai) ⭐ 3,401 | 🐛 50 | 🌐 JavaScript | 📅 2025-07-08 - Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database).
 * [Ask-Anything](https://github.com/OpenGVLab/Ask-Anything) ⭐ 3,341 | 🐛 76 | 🌐 Python | 📅 2025-01-18 - ChatGPT with video understanding and communication.
-* [Chat with GPT](https://github.com/cogentapps/chat-with-gpt) ⭐ 2,362 | 🐛 97 | 🌐 TypeScript | 📅 2024-05-24 - Open-source ChatGPT web app with a voice.
-* [Anse](https://github.com/anse-app/anse) ⭐ 1,977 | 🐛 41 | 🌐 TypeScript | 📅 2025-05-12 - Alternative ChatGPT web UI.
+* [Chat with GPT](https://github.com/cogentapps/chat-with-gpt) ⭐ 2,363 | 🐛 97 | 🌐 TypeScript | 📅 2024-05-24 - Open-source ChatGPT web app with a voice.
+* [Anse](https://github.com/anse-app/anse) ⭐ 1,978 | 🐛 41 | 🌐 TypeScript | 📅 2025-05-12 - Alternative ChatGPT web UI.
 * [ShareGPT](https://github.com/domeccleston/sharegpt) ⭐ 1,760 | 🐛 1 | 🌐 TypeScript | 📅 2024-09-25 - Share permanent links to ChatGPT conversations.
-* [Chat Chat](https://github.com/okisdev/ChatChat) ⭐ 1,273 | 🐛 18 | 🌐 TypeScript | 📅 2026-04-02 - Your own unified AI interface.
+* [Chat Chat](https://github.com/okisdev/ChatChat) ⭐ 1,273 | 🐛 18 | 🌐 TypeScript | 📅 2026-04-03 - Your own unified AI interface.
 * [chatgpt-i18n](https://github.com/ObservedObserver/chatgpt-i18n) ⭐ 814 | 🐛 18 | 🌐 TypeScript | 📅 2024-01-26 - Localize your websites.
 * [VLog](https://github.com/showlab/VLog) ⭐ 590 | 🐛 9 | 🌐 Python | 📅 2025-03-13 - Convert videos to documents.
 * [kindle-gpt](https://github.com/mckaywrigley/kindle-gpt) ⭐ 262 | 🐛 0 | 🌐 TypeScript | 📅 2023-03-10 - Search and chat on your Kindle highlights.
@@ -143,9 +143,9 @@
 
 ### Self-hosted
 
-* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 183,078 | 🐛 386 | 🌐 Python | 📅 2026-04-03 - An experimental open-source attempt to make GPT-4 fully autonomous.
+* [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) ⭐ 183,115 | 🐛 380 | 🌐 Python | 📅 2026-04-03 - An experimental open-source attempt to make GPT-4 fully autonomous.
 * [Beelzebub](https://github.com/mariocandela/beelzebub) ⭐ 1,937 | 🐛 6 | 🌐 Go | 📅 2026-03-29 - Secure honeypot framework.
-* [twitterbio](https://github.com/Nutlope/twitterbio) ⭐ 1,757 | 🐛 27 | 🌐 TypeScript | 📅 2026-03-31 - Generate your Twitter bio.
+* [twitterbio](https://github.com/Nutlope/twitterbio) ⭐ 1,756 | 🐛 27 | 🌐 TypeScript | 📅 2026-03-31 - Generate your Twitter bio.
 * [ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader) ⭐ 758 | 🐛 16 | 🌐 Python | 📅 2024-02-20 - Read and summarize academic papers.
 * [Sidekick](https://github.com/ai-sidekick/sidekick) - Connect external data to ChatGPT APIs through a dashboard.
 
@@ -155,15 +155,15 @@
 
 ## Browser extensions
 
-* [ChatGPT Box](https://github.com/josStorer/chatGPTBox) ⭐ 10,734 | 🐛 367 | 🌐 JavaScript | 📅 2026-03-17 - Deep ChatGPT integrations in your browser.
-* [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) ⭐ 6,478 | 🐛 96 | 🌐 TypeScript | 📅 2024-08-13 - Enable web access in ChatGPT.
+* [ChatGPT Box](https://github.com/josStorer/chatGPTBox) ⭐ 10,735 | 🐛 367 | 🌐 JavaScript | 📅 2026-03-17 - Deep ChatGPT integrations in your browser.
+* [WebChatGPT](https://github.com/qunash/chatgpt-advanced/) ⭐ 6,477 | 🐛 96 | 🌐 TypeScript | 📅 2024-08-13 - Enable web access in ChatGPT.
 * [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) ⭐ 2,046 | 🐛 83 | 🌐 TypeScript | 📅 2024-10-14 - Display ChatGPT summaries alongside Google search results, YouTube videos, etc.
-* [Talk-to-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) ⭐ 1,938 | 🐛 95 | 🌐 JavaScript | 📅 2024-05-19 - Talk with ChatGPT using your voice and listen to answers.
+* [Talk-to-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) ⭐ 1,939 | 🐛 95 | 🌐 JavaScript | 📅 2024-05-19 - Talk with ChatGPT using your voice and listen to answers.
 * [ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf) ⭐ 1,481 | 🐛 35 | 🌐 JavaScript | 📅 2023-04-12 - Download your ChatGPT history to PNG, PDF or a sharable link.
-* [ChatGPT Prompt Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) ⭐ 1,277 | 🐛 17 | 🌐 JavaScript | 📅 2026-02-17 - Discover, share, import, and use the best prompts for ChatGPT.
+* [ChatGPT Prompt Genius](https://github.com/benf2004/ChatGPT-Prompt-Genius) ⭐ 1,278 | 🐛 17 | 🌐 JavaScript | 📅 2026-02-17 - Discover, share, import, and use the best prompts for ChatGPT.
 * [Summarize](https://github.com/clmnin/summarize.site) ⭐ 755 | 🐛 3 | 🌐 JavaScript | 📅 2023-09-13 - Summarize websites.
 * [codereview.gpt](https://github.com/sturdy-dev/codereview.gpt) ⭐ 609 | 🐛 14 | 🌐 JavaScript | 📅 2024-08-12 - Reviews your pull requests.
-* [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) ⭐ 348 | 🐛 6 | 🌐 JavaScript | 📅 2026-03-31 - Makes ChatGPT automatically answer random questions to increase your knowledge.
+* [ChatGPT Infinity](https://github.com/adamlui/chatgpt-infinity) ⭐ 349 | 🐛 6 | 🌐 JavaScript | 📅 2026-03-31 - Makes ChatGPT automatically answer random questions to increase your knowledge.
 * [ChatGPT Enhancement Extension](https://github.com/sailist/chatgpt-enhancement-extension) ⭐ 332 | 🐛 4 | 🌐 TypeScript | 📅 2023-04-19 - Enhancements to the ChatGPT web UI.
 * [ChassistantGPT](https://github.com/idosal/assistant-chat-gpt) ⭐ 239 | 🐛 4 | 🌐 JavaScript | 📅 2023-04-04 - Chrome browser extension that embeds ChatGPT as a hands-free voice assistant.
 * [ChatGPT Widescreen Mode](https://github.com/adamlui/chatgpt-widescreen) ⭐ 197 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-31 - Adds widescreen and fullscreen mode to ChatGPT.
@@ -180,10 +180,10 @@
 
 **User scripts**
 
-* [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/README_EN.md) ⭐ 14,909 | 🐛 123 | 🌐 JavaScript | 📅 2026-04-02 - Fixes common networks errors and problems with ChatGPT.
-* [ChatGPT Exporter](https://github.com/pionxzh/chatgpt-exporter) ⭐ 2,327 | 🐛 21 | 🌐 TypeScript | 📅 2026-03-01 - Export and share ChatGPT conversation history.
-* [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh) ⭐ 207 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-31 - Keeps ChatGPT sessions fresh to avoid network errors and Cloudflare checks.
-* [ChatGPT Auto-Continue](https://github.com/adamlui/chatgpt-auto-continue) ⭐ 180 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-31 - Automatically clicks "Continue generating" when responses are cut off.
+* [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT/blob/main/README_EN.md) ⭐ 14,907 | 🐛 123 | 🌐 JavaScript | 📅 2026-04-02 - Fixes common networks errors and problems with ChatGPT.
+* [ChatGPT Exporter](https://github.com/pionxzh/chatgpt-exporter) ⭐ 2,329 | 🐛 21 | 🌐 TypeScript | 📅 2026-03-01 - Export and share ChatGPT conversation history.
+* [ChatGPT Auto Refresh](https://github.com/adamlui/chatgpt-auto-refresh) ⭐ 208 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-31 - Keeps ChatGPT sessions fresh to avoid network errors and Cloudflare checks.
+* [ChatGPT Auto-Continue](https://github.com/adamlui/chatgpt-auto-continue) ⭐ 181 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-31 - Automatically clicks "Continue generating" when responses are cut off.
 * [Autoclear ChatGPT History](https://github.com/adamlui/autoclear-chatgpt-history) ⭐ 53 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-31 - Auto-clear ChatGPT conversation history for increased privacy.
 
 **Bookmarklets**
@@ -193,19 +193,19 @@
 
 ## CLI tools
 
-* [ShellGPT](https://github.com/TheR1D/shell_gpt) ⭐ 11,940 | 🐛 113 | 🌐 Python | 📅 2026-01-28 - Use ChatGPT from the command-line.
-* [aicommits](https://github.com/Nutlope/aicommits) ⭐ 8,921 | 🐛 5 | 🌐 TypeScript | 📅 2026-04-02 - Automatically generate Git commit messages.
+* [ShellGPT](https://github.com/TheR1D/shell_gpt) ⭐ 11,938 | 🐛 114 | 🌐 Python | 📅 2026-01-28 - Use ChatGPT from the command-line.
+* [aicommits](https://github.com/Nutlope/aicommits) ⭐ 8,922 | 🐛 6 | 🌐 TypeScript | 📅 2026-04-02 - Automatically generate Git commit messages.
 * [aiac](https://github.com/gofireflyio/aiac) ⭐ 3,793 | 🐛 2 | 🌐 Go | 📅 2026-03-24 - Infrastructure-as-Code generator.
-* [README-AI](https://github.com/eli64s/README-AI) ⭐ 2,888 | 🐛 62 | 🌐 Python | 📅 2026-04-02 - Automatically generate README files.
+* [README-AI](https://github.com/eli64s/README-AI) ⭐ 2,890 | 🐛 62 | 🌐 Python | 📅 2026-04-02 - Automatically generate README files.
 * [gptcommit](https://github.com/zurawiki/gptcommit) ⭐ 2,423 | 🐛 22 | 🌐 Rust | 📅 2026-03-24 - Git hook for authoring commit messages.
-* [autodoc](https://github.com/context-labs/autodoc) ⭐ 2,321 | 🐛 24 | 🌐 TypeScript | 📅 2024-08-12 - Automatically generate codebase documentation.
-* [cz-git](https://github.com/Zhengqbbb/cz-git) ⭐ 1,483 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-11 - Automatically generate Git commit messages.
+* [autodoc](https://github.com/context-labs/autodoc) ⭐ 2,322 | 🐛 24 | 🌐 TypeScript | 📅 2024-08-12 - Automatically generate codebase documentation.
+* [cz-git](https://github.com/Zhengqbbb/cz-git) ⭐ 1,481 | 🐛 1 | 🌐 TypeScript | 📅 2025-10-11 - Automatically generate Git commit messages.
 * [StackExplain](https://github.com/shobrook/stackexplain) ⭐ 1,421 | 🐛 17 | 🌐 Python | 📅 2024-12-20 - Have your error messages explained in plain English.
 * [chatGPT-shell-cli](https://github.com/0xacx/chatGPT-shell-cli) ⭐ 1,239 | 🐛 50 | 🌐 Shell | 📅 2024-06-19 - Use ChatGPT from the command-line. Shell script.
 * [chat-gpt-ppt](https://github.com/williamfzc/chat-gpt-ppt) ⭐ 924 | 🐛 8 | 🌐 Go | 📅 2023-03-27 - Automatically generate PowerPoint presentations.
 * [CLI for ChatGPT](https://github.com/j178/chatgpt) ⭐ 783 | 🐛 13 | 🌐 Go | 📅 2026-03-09 - Interactive interface for ChatGPT.
-* [tenere](https://github.com/pythops/tenere) ⭐ 658 | 🐛 9 | 🌐 Rust | 📅 2026-01-31 - Terminal interface (TUI) for ChatGPT written in Rust.
-* [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) ⭐ 657 | 🐛 9 | 🌐 Python | 📅 2022-12-06 - Have a conversation with ChatGPT.
+* [tenere](https://github.com/pythops/tenere) ⭐ 659 | 🐛 9 | 🌐 Rust | 📅 2026-01-31 - Terminal interface (TUI) for ChatGPT written in Rust.
+* [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) ⭐ 658 | 🐛 9 | 🌐 Python | 📅 2022-12-06 - Have a conversation with ChatGPT.
 * [Shell Genie](https://github.com/dylanjcastillo/shell-genie) ⚠️ Archived - Interact with the terminal in plain English.
 * [ai-commit](https://github.com/guanguans/ai-commit) ⭐ 392 | 🐛 0 | 🌐 PHP | 📅 2026-03-27 - Automatically generate conventional Git commit messages.
 * [aifiles](https://github.com/jjuliano/aifiles) ⭐ 202 | 🐛 12 | 🌐 TypeScript | 📅 2025-11-18 - Organize and manage your files using AI.
@@ -219,14 +219,14 @@
 
 ## Bots
 
-* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 346,279 | 🐛 17,052 | 🌐 TypeScript | 📅 2026-04-03 - Self-hosted multi-channel bot bridging Claude to WhatsApp, Telegram, Discord, Slack, and more.
+* [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 347,376 | 🐛 17,090 | 🌐 TypeScript | 📅 2026-04-04 - Self-hosted multi-channel bot bridging Claude to WhatsApp, Telegram, Discord, Slack, and more.
 * [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) ⚠️ Archived - Chatbot for large PDF files.
-* [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,256 | 🐛 62 | 🌐 TypeScript | 📅 2024-05-20 - Wechat bot.
-* [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) ⭐ 5,504 | 🐛 111 | 🌐 Python | 📅 2025-06-26 - Telegram bot that supports voice messages.
-* [CodeReview Bot](https://github.com/anc95/ChatGPT-CodeReview) ⭐ 4,430 | 🐛 57 | 🌐 JavaScript | 📅 2026-02-07 - GitHub Actions bot.
+* [wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) ⭐ 13,254 | 🐛 62 | 🌐 TypeScript | 📅 2024-05-20 - Wechat bot.
+* [chatgpt-telegram-bot](https://github.com/karfly/chatgpt_telegram_bot) ⭐ 5,506 | 🐛 111 | 🌐 Python | 📅 2025-06-26 - Telegram bot that supports voice messages.
+* [CodeReview Bot](https://github.com/anc95/ChatGPT-CodeReview) ⭐ 4,431 | 🐛 57 | 🌐 JavaScript | 📅 2026-02-07 - GitHub Actions bot.
 * [myGPTReader](https://github.com/madawei2699/myGPTReader) ⭐ 4,426 | 🐛 15 | 🌐 Python | 📅 2026-02-05 - Slack bot.
 * [chatgpt-telegram](https://github.com/m1guelpf/chatgpt-telegram) ⭐ 3,891 | 🐛 59 | 🌐 Go | 📅 2023-04-10 - Telegram bot.
-* [ChatGPT Discord Bot](https://github.com/Zero6992/chatGPT-discord-bot) ⭐ 2,735 | 🐛 26 | 🌐 Python | 📅 2025-07-27 - Discord bot.
+* [ChatGPT Discord Bot](https://github.com/Zero6992/chatGPT-discord-bot) ⭐ 2,736 | 🐛 26 | 🌐 Python | 📅 2025-07-27 - Discord bot.
 * [openai-pr-reviewer](https://github.com/fluxninja/openai-pr-reviewer) ⚠️ Archived - GitHub Actions bot.
 * [kubernetes-chatgpt-bot](https://github.com/robusta-dev/kubernetes-chatgpt-bot) ⭐ 920 | 🐛 10 | 🌐 Python | 📅 2024-11-21 - Kubernetes bot.
 * [chatgpt-twitter-bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot) ⭐ 757 | 🐛 3 | 🌐 TypeScript | 📅 2024-07-22 - Twitter bot.
@@ -234,20 +234,20 @@
 * [chatgpt-telegram-bot-serverless](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) ⭐ 324 | 🐛 3 | 🌐 Python | 📅 2023-09-22 - Telegram bot.
 * [chatgpt-discord](https://github.com/m1guelpf/chatgpt-discord) ⭐ 286 | 🐛 14 | 🌐 Go | 📅 2022-12-20 - Discord bot.
 * [DuckDuckGPT](https://github.com/kudoai/duckduckgpt) ⭐ 273 | 🐛 8 | 🌐 JavaScript | 📅 2026-03-31 - DuckDuckGo bot.
-* [BraveGPT](https://github.com/kudoai/bravegpt) ⭐ 205 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-31 - Brave Search bot.
+* [BraveGPT](https://github.com/kudoai/bravegpt) ⭐ 206 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-31 - Brave Search bot.
 * [chatgpt-create-unit-tests](https://github.com/zebroc/chatgpt-create-unit-tests) ⭐ 13 | 🐛 0 | 🌐 Go | 📅 2023-04-29 - GitHub Actions bot that analyses a pull request and adds unit tests if necessary.
 * [GoogleGPT](https://www.googlegpt.io) - Google Search bot.
 
 ## Integrations
 
-* [PandasAI](https://github.com/gventuri/pandas-ai) ⭐ 23,434 | 🐛 19 | 🌐 Python | 📅 2025-10-28 - Integrate ChatGPT capabilities into Pandas.
+* [PandasAI](https://github.com/gventuri/pandas-ai) ⭐ 23,435 | 🐛 20 | 🌐 Python | 📅 2025-10-28 - Integrate ChatGPT capabilities into Pandas.
 * [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) ⭐ 4,948 | 🐛 52 | 🌐 TypeScript | 📅 2023-09-29 - VSCode extension.
-* [AICommand](https://github.com/keijiro/AICommand) ⭐ 4,118 | 🐛 6 | 🌐 C# | 📅 2023-12-05 - ChatGPT integration with Unity Editor.
-* [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) ⭐ 4,011 | 🐛 111 | 🌐 Lua | 📅 2026-01-13 - Neovim plugin.
+* [AICommand](https://github.com/keijiro/AICommand) ⭐ 4,117 | 🐛 6 | 🌐 C# | 📅 2023-12-05 - ChatGPT integration with Unity Editor.
+* [ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) ⭐ 4,009 | 🐛 111 | 🌐 Lua | 📅 2026-01-13 - Neovim plugin.
 * [Scikit-LLM](https://github.com/iryna-kondr/scikit-llm) ⭐ 3,487 | 🐛 20 | 🌐 Python | 📅 2026-04-01 - Integrate ChatGPT capabilities into scikit-learn.
 * [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) ⭐ 3,459 | 🐛 3 | 🌐 TypeScript | 📅 2023-04-18 - VSCode extension.
-* [AI Shader](https://github.com/keijiro/AIShader) ⭐ 2,377 | 🐛 1 | 🌐 C# | 📅 2023-12-05 - ChatGPT-powered shader generator for Unity.
-* [ChatGPT-MD](https://github.com/bramses/chatgpt-md) ⭐ 1,360 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-11 - ChatGPT integration with Obsidian note-taking software.
+* [AI Shader](https://github.com/keijiro/AIShader) ⭐ 2,376 | 🐛 1 | 🌐 C# | 📅 2023-12-05 - ChatGPT-powered shader generator for Unity.
+* [ChatGPT-MD](https://github.com/bramses/chatgpt-md) ⭐ 1,361 | 🐛 24 | 🌐 TypeScript | 📅 2026-02-11 - ChatGPT integration with Obsidian note-taking software.
 * [ChatGPT Jetbrains](https://github.com/dromara/ChatGPT) ⭐ 1,060 | 🐛 13 | 🌐 Java | 📅 2024-10-10 - Jetbrains plugin.
 * [Chapyter](https://github.com/chapyter/chapyter) ⭐ 831 | 🐛 30 | 🌐 Python | 📅 2023-10-20 - Integrate ChatGPT capabilities into Jupyter Notebook.
 * [org-ai](https://github.com/rksm/org-ai) ⭐ 815 | 🐛 45 | 🌐 Emacs Lisp | 📅 2026-01-07 - Emacs org-mode.
@@ -271,21 +271,21 @@
 ### API clients
 
 * [Node.js](https://github.com/transitive-bullshit/chatgpt-api) ⚠️ Archived
-* [PHP](https://github.com/openai-php/client) ⭐ 5,761 | 🐛 26 | 🌐 PHP | 📅 2026-04-01
+* [PHP](https://github.com/openai-php/client) ⭐ 5,763 | 🐛 26 | 🌐 PHP | 📅 2026-04-01
 * [Ruby](https://github.com/alexrudall/ruby-openai) ⭐ 3,216 | 🐛 46 | 🌐 Ruby | 📅 2025-08-29
-* [Swift](https://github.com/MacPaw/OpenAI) ⭐ 2,887 | 🐛 42 | 🌐 Swift | 📅 2026-03-30
+* [Swift](https://github.com/MacPaw/OpenAI) ⭐ 2,886 | 🐛 42 | 🌐 Swift | 📅 2026-03-30
 * [Delphi](https://github.com/HemulGM/DelphiOpenAI) ⭐ 303 | 🐛 1 | 🌐 Pascal | 📅 2025-08-31
 * [Go](https://github.com/AlmazDelDiablo/gpt3-5-turbo-go) ⚠️ Archived
 
 ### JavaScript
 
-* [Vercel AI SDK](https://github.com/vercel-labs/ai) ⭐ 23,199 | 🐛 1,455 | 🌐 TypeScript | 📅 2026-04-03 - An open source library for building AI-powered user interfaces.
+* [Vercel AI SDK](https://github.com/vercel-labs/ai) ⭐ 23,223 | 🐛 1,466 | 🌐 TypeScript | 📅 2026-04-04 - An open source library for building AI-powered user interfaces.
 * [chatgpt.js](https://github.com/kudoai/chatgpt.js) ⭐ 2,029 | 🐛 5 | 🌐 JavaScript | 📅 2026-03-31 - Easy interaction with the ChatGPT DOM.
-* [llm-ui](https://github.com/llm-ui-kit/llm-ui) ⭐ 1,737 | 🐛 15 | 🌐 TypeScript | 📅 2025-07-02 - An open source library for building UIs for LLMs.
+* [llm-ui](https://github.com/llm-ui-kit/llm-ui) ⭐ 1,738 | 🐛 15 | 🌐 TypeScript | 📅 2025-07-02 - An open source library for building UIs for LLMs.
 
 ### Python
 
-* [GPTCache](https://github.com/zilliztech/GPTCache) ⭐ 7,971 | 🐛 88 | 🌐 Python | 📅 2025-07-11 - Semantic cache to store responses from LLM queries.
+* [GPTCache](https://github.com/zilliztech/GPTCache) ⭐ 7,972 | 🐛 88 | 🌐 Python | 📅 2025-07-11 - Semantic cache to store responses from LLM queries.
 * [knowledge-gpt](https://github.com/geeks-of-data/knowledge-gpt) ⭐ 290 | 🐛 9 | 🌐 Python | 📅 2023-04-25 - Extract knowledge from information sources.
 
 ### Go
@@ -304,5 +304,5 @@
 
 ## Related lists
 
-* [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 156,780 | 🐛 38 | 🌐 HTML | 📅 2026-04-03 - Prompt curation.
-* [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) ⭐ 2,245 | 🐛 4 | 📅 2026-03-17 - Whisper is an AI-powered speech recognition system.
+* [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 157,236 | 🐛 43 | 🌐 HTML | 📅 2026-04-04 - Prompt curation.
+* [awesome-whisper](https://github.com/sindresorhus/awesome-whisper) ⭐ 2,246 | 🐛 4 | 📅 2026-03-17 - Whisper is an AI-powered speech recognition system.
