@@ -63,7 +63,7 @@
             "last_commit": "2023-07-10T09:17:17Z",
             "owner": "bapaws",
             "repo": "answer",
-            "stars": 279
+            "stars": 278
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2024-08-29T17:58:11Z",
             "owner": "lencx",
             "repo": "ChatGPT",
-            "stars": 54388
+            "stars": 54387
           }
         },
         {
@@ -128,7 +128,7 @@
             "last_commit": "2026-04-06T08:11:12Z",
             "owner": "HemulGM",
             "repo": "ChatGPT",
-            "stars": 461
+            "stars": 462
           }
         },
         {
@@ -141,7 +141,7 @@
             "last_commit": "2026-06-01T06:23:13Z",
             "owner": "chatboxai",
             "repo": "chatbox",
-            "stars": 40314
+            "stars": 40336
           }
         },
         {
@@ -254,7 +254,7 @@
             "last_commit": "2025-05-12T02:21:03Z",
             "owner": "anse-app",
             "repo": "anse",
-            "stars": 1974
+            "stars": 1973
           }
         },
         {
@@ -267,7 +267,7 @@
             "last_commit": "2024-08-03T00:38:07Z",
             "owner": "mckaywrigley",
             "repo": "chatbot-ui",
-            "stars": 33269
+            "stars": 33267
           }
         },
         {
@@ -280,7 +280,7 @@
             "last_commit": "2026-05-15T01:19:01Z",
             "owner": "ChatGPTNextWeb",
             "repo": "NextChat",
-            "stars": 88178
+            "stars": 88184
           }
         },
         {
@@ -423,7 +423,7 @@
             "last_commit": "2025-04-29T01:19:32Z",
             "owner": "reworkd",
             "repo": "AgentGPT",
-            "stars": 36156
+            "stars": 36159
           }
         },
         {
@@ -449,7 +449,7 @@
             "last_commit": "2023-12-27T01:44:01Z",
             "owner": "anse-app",
             "repo": "chatgpt-demo",
-            "stars": 7957
+            "stars": 7958
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2025-01-18T12:11:48Z",
             "owner": "OpenGVLab",
             "repo": "Ask-Anything",
-            "stars": 3340
+            "stars": 3339
           }
         },
         {
@@ -514,7 +514,7 @@
             "last_commit": "2024-01-06T02:41:20Z",
             "owner": "chenfei-wu",
             "repo": "TaskMatrix",
-            "stars": 34097
+            "stars": 34094
           }
         },
         {
@@ -527,7 +527,7 @@
             "last_commit": "2024-02-27T13:17:24Z",
             "owner": "opencx-labs",
             "repo": "OpenChat",
-            "stars": 5246
+            "stars": 5245
           }
         },
         {
@@ -566,7 +566,7 @@
             "last_commit": "2026-06-04T23:39:01Z",
             "owner": "openinterpreter",
             "repo": "open-interpreter",
-            "stars": 63823
+            "stars": 63838
           }
         },
         {
@@ -589,10 +589,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T17:47:46Z",
+            "last_commit": "2026-06-07T06:04:16Z",
             "owner": "comet-ml",
             "repo": "opik",
-            "stars": 19433
+            "stars": 19437
           }
         },
         {
@@ -605,7 +605,7 @@
             "last_commit": "2024-11-18T09:39:29Z",
             "owner": "xlang-ai",
             "repo": "OpenAgents",
-            "stars": 4836
+            "stars": 4837
           }
         }
       ],
@@ -621,10 +621,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-05T23:49:21Z",
+            "last_commit": "2026-06-06T23:45:12Z",
             "owner": "Significant-Gravitas",
             "repo": "AutoGPT",
-            "stars": 184787
+            "stars": 184804
           }
         },
         {
@@ -665,10 +665,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-06-02T14:45:11Z",
+            "last_commit": "2026-06-07T02:42:39Z",
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2036
+            "stars": 2037
           }
         }
       ],
@@ -705,7 +705,7 @@
             "last_commit": "2026-06-04T18:36:01Z",
             "owner": "ChatGPTBox-dev",
             "repo": "chatGPTBox",
-            "stars": 10739
+            "stars": 10740
           }
         },
         {
@@ -718,7 +718,7 @@
             "last_commit": "2023-04-12T23:07:45Z",
             "owner": "liady",
             "repo": "ChatGPT-pdf",
-            "stars": 1483
+            "stars": 1481
           }
         },
         {
@@ -759,7 +759,7 @@
             "last_commit": "2023-09-13T07:12:06Z",
             "owner": "clmnin",
             "repo": "summarize.site",
-            "stars": 755
+            "stars": 756
           }
         },
         {
@@ -842,7 +842,7 @@
             "last_commit": "2024-08-12T07:10:27Z",
             "owner": "sturdy-dev",
             "repo": "codereview.gpt",
-            "stars": 607
+            "stars": 608
           }
         },
         {
@@ -988,7 +988,7 @@
             "last_commit": "2024-12-20T22:03:43Z",
             "owner": "shobrook",
             "repo": "wut",
-            "stars": 1425
+            "stars": 1426
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-05-31T18:16:58Z",
             "owner": "eli64s",
             "repo": "readme-ai",
-            "stars": 2915
+            "stars": 2913
           }
         },
         {
@@ -1027,7 +1027,7 @@
             "last_commit": "2026-05-18T21:50:36Z",
             "owner": "Nutlope",
             "repo": "aicommits",
-            "stars": 9006
+            "stars": 9004
           }
         },
         {
@@ -1144,7 +1144,7 @@
             "last_commit": "2026-05-10T07:23:08Z",
             "owner": "pythops",
             "repo": "tenere",
-            "stars": 669
+            "stars": 670
           }
         },
         {
@@ -1183,7 +1183,7 @@
             "last_commit": "2026-05-06T04:29:55Z",
             "owner": "TheR1D",
             "repo": "shell_gpt",
-            "stars": 12112
+            "stars": 12116
           }
         },
         {
@@ -1267,7 +1267,7 @@
             "last_commit": "2026-02-05T10:40:28Z",
             "owner": "myreader-io",
             "repo": "myGPTReader",
-            "stars": 4420
+            "stars": 4419
           }
         },
         {
@@ -1332,7 +1332,7 @@
             "last_commit": "2026-02-07T16:47:41Z",
             "owner": "anc95",
             "repo": "ChatGPT-CodeReview",
-            "stars": 4441
+            "stars": 4442
           }
         },
         {
@@ -1376,7 +1376,7 @@
             "last_commit": "2024-05-20T09:44:41Z",
             "owner": "fuergaosi233",
             "repo": "wechat-chatgpt",
-            "stars": 13237
+            "stars": 13236
           }
         },
         {
@@ -1389,7 +1389,7 @@
             "last_commit": "2025-06-26T15:12:37Z",
             "owner": "father-bot",
             "repo": "chatgpt_telegram_bot",
-            "stars": 5499
+            "stars": 5498
           }
         },
         {
@@ -1399,7 +1399,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-06-05T08:27:05Z",
+            "last_commit": "2026-06-06T06:20:25Z",
             "owner": "KudoAI",
             "repo": "duckduckgpt",
             "stars": 275
@@ -1412,7 +1412,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-06-05T08:27:05Z",
+            "last_commit": "2026-06-06T06:20:25Z",
             "owner": "KudoAI",
             "repo": "bravegpt",
             "stars": 209
@@ -1430,10 +1430,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-06T05:51:17Z",
+            "last_commit": "2026-06-07T06:18:20Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 377148
+            "stars": 377322
           }
         }
       ],
@@ -1618,7 +1618,7 @@
             "last_commit": "2023-12-05T14:02:11Z",
             "owner": "keijiro",
             "repo": "AICommand",
-            "stars": 4118
+            "stars": 4117
           }
         },
         {
@@ -1657,7 +1657,7 @@
             "last_commit": "2025-10-28T10:02:13Z",
             "owner": "sinaptik-ai",
             "repo": "pandas-ai",
-            "stars": 23572
+            "stars": 23574
           }
         },
         {
@@ -1675,7 +1675,7 @@
             "last_commit": "2026-06-01T02:05:33Z",
             "owner": "BeastByteAI",
             "repo": "scikit-llm",
-            "stars": 3507
+            "stars": 3510
           }
         },
         {
@@ -1764,7 +1764,7 @@
             "last_commit": "2026-06-05T10:01:44Z",
             "owner": "MacPaw",
             "repo": "OpenAI",
-            "stars": 2914
+            "stars": 2913
           }
         },
         {
@@ -1777,7 +1777,7 @@
             "last_commit": "2026-02-11T04:50:03Z",
             "owner": "transitive-bullshit",
             "repo": "agentic",
-            "stars": 18118
+            "stars": 18117
           }
         },
         {
@@ -1816,7 +1816,7 @@
             "last_commit": "2026-06-02T06:07:35Z",
             "owner": "openai-php",
             "repo": "client",
-            "stars": 5798
+            "stars": 5797
           }
         },
         {
@@ -1845,7 +1845,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-06-06T05:51:27Z",
+            "last_commit": "2026-06-06T10:00:32Z",
             "owner": "KudoAI",
             "repo": "chatgpt.js",
             "stars": 2036
@@ -1861,7 +1861,7 @@
             "last_commit": "2026-06-06T01:30:04Z",
             "owner": "vercel",
             "repo": "ai",
-            "stars": 24685
+            "stars": 24703
           }
         },
         {
@@ -1874,7 +1874,7 @@
             "last_commit": "2025-07-02T12:52:26Z",
             "owner": "richardgill",
             "repo": "llm-ui",
-            "stars": 1740
+            "stars": 1741
           }
         }
       ],
@@ -1893,7 +1893,7 @@
             "last_commit": "2025-07-11T09:04:36Z",
             "owner": "zilliztech",
             "repo": "GPTCache",
-            "stars": 8056
+            "stars": 8057
           }
         },
         {
@@ -1922,10 +1922,10 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-06-06T04:26:58Z",
+            "last_commit": "2026-06-07T04:35:19Z",
             "owner": "f",
             "repo": "prompts.chat",
-            "stars": 163356
+            "stars": 163395
           }
         },
         {
@@ -1938,7 +1938,7 @@
             "last_commit": "2026-03-17T12:02:10Z",
             "owner": "sindresorhus",
             "repo": "awesome-whisper",
-            "stars": 2323
+            "stars": 2324
           }
         }
       ],
@@ -1946,7 +1946,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-06-06T05:52:51.589Z",
+    "last_updated": "2026-06-07T06:22:26.661Z",
     "original_repository": "sindresorhus/awesome-chatgpt",
     "source_repository": "v1nvn/enhansome-chatgpt",
     "source_repository_description": null,
